@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="Main_page.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<div class="main_window">
+    <div class="main_img">
+        <img class="img" src="unsplash_ncQ2sguVlgo.jpg" alt="House plants, cacti"></a>
+    </div>
+</div>
+<hr>
+<div class="footer">
+
+    <ul>
+        <li class="Planktu">plantku</li>
+     <li class="Planktu-house">Plantku House</li>
+        <li class="Adress">Jl. Laksda Adisucipto No.51, Demangan, Kec. Depok, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55282</li>
+      </ul>
+
+      <ul>
+        <li class="Titles">Perusahaan</li>
+        <a href=""> <li class="Some-text">Tentang Kami</li> </a>
+            <a href=""> <li class="Some-text">Hubungi Kami</li> </a>
+      </ul>
+
+      <ul>
+        <li class="Titles">Produk</li>
+        <a href=""> <li class="Some-text">Tanaman</li> </a>
+            <a href=""> <li class="Some-text">Tanaman Lain</li> </a>
+      </ul>
+
+      <form>
+        <p class="Email">Berlangganan Email Kami</p>
+        <input class="e" type="email" name="email">
+        <input class="b" type="button" onclick="alert('!!Ура!!')" value="Submit">
+      </form>
+
+   
+
+
+</div>
+
+
+
+</body>

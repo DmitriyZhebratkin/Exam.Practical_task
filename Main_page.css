@@ -1,0 +1,165 @@
+.main_img {
+  display: block;
+  margin: 0 auto;
+}
+
+.main_window{
+    margin-top: 30px;
+    margin-bottom: 37px;
+
+    display: flex
+    
+}
+
+.footer{
+    margin-top: 60px;
+    margin-left:187px;
+top: 756px;
+margin-bottom: 71pxz;
+    display: flex
+}
+
+li{
+    list-style-type: none;
+}
+
+.Planktu{width: 112px;
+    height: 24px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #156963;
+    flex: none;
+    order: 0;
+    flex-grow: 0;}
+
+    .Planktu-house{
+        width: 115px;
+        height: 19px;
+        left: 0px;
+        top: 48px;
+        margin-top: 24px;
+        margin-bottom: 10px;       
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #333333;}
+
+.Adress{
+width: 282px;
+height: 60px;
+left: 0px;
+top: 77px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+}
+
+.Titles{
+margin-bottom: 20px;
+    width: 92px;
+    height: 16px;
+    left: 362px;
+    top: 0px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+    color: #000000;}
+
+.Some-text{
+    width: 93px;
+height: 16px;
+left: 362px;
+top: 36px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+    margin-bottom: 14px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+input{box-sizing: border-box;
+
+    width: 234px;
+    height: 32px;
+    left: 0px;
+    top: 30px; 
+    border: 1px solid #F2F2F2;
+    border-radius: 2px;}
+
+.e{width: 199px;
+    height: 16px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;}
+
+    .b{
+        display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 12px;
+gap: 10px;
+margin-top: 14px;
+width: 51px;
+height: 22px;
+background: #156963;
+backdrop-filter: blur(10px);
+border-radius: 2px;
+flex: none;
+order: 2;
+flex-grow: 0; }
+
+.Email{
+ width: 199px;
+height: 16px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+color: #000000;
+}
+
+hr{
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 756px;
+opacity: 0.3;
+border: 1px solid #156963;
+}
+
+a{
+    color: #000000;
+    text-decoration: none !important;
+    border: none !important;
+    }
